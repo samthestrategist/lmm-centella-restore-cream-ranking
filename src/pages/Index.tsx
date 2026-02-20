@@ -73,7 +73,7 @@ const Index = () => {
         "✅ Three-phase Centelloid Renewal Cascade™ — addresses fibroblast reactivation, collagen synthesis, and barrier restoration in sequence",
         "✅ Fragrance-free, dye-free formulation designed for the sensitized, reactive skin common in perimenopause",
         "✅ 60-day money-back guarantee — the longest guarantee on this list, timed specifically to the 8-week protocol",
-        "✅ Free gifts with every order, code SECRET25 for 25% off — the most generous offer structure in this category",
+        "✅ Free gifts with every order, code SECRET25 for 25% off — $59.25 / $111.75 / $147.75 — the most generous offer structure in this category",
       ],
       cta: PDP_URL,
       ctaText: "Visit Site →",
@@ -430,7 +430,7 @@ const Index = () => {
               Centella Restore Cream™ by Little Miss Mineral — the only cica moisturizer formulated specifically for the biological changes of perimenopause.
             </p>
             <div style={{ margin: "24px 0 8px" }}>
-              <div style={{ fontSize: "15px", opacity: 0.85, marginBottom: "8px" }}>→ Use code <strong>SECRET25</strong> for 25% off any bundle</div>
+              <div style={{ fontSize: "15px", opacity: 0.85, marginBottom: "8px" }}>→ Use code <strong>SECRET25</strong> for 25% off: 1 jar $59.25 | 2 jars $111.75 | 3 jars $147.75</div>
               <div style={{ fontSize: "15px", opacity: 0.85, marginBottom: "8px" }}>→ 60-Day Money-Back Guarantee — no forms, no fine print</div>
               <div style={{ fontSize: "15px", opacity: 0.85, marginBottom: "24px" }}>→ Free gifts with every order (Digital Guide + Roller + Masks by tier)</div>
             </div>
