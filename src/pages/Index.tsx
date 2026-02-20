@@ -4,12 +4,12 @@ import { Helmet } from "react-helmet-async";
 const PDP_URL = "https://samthestrategist.github.io/lmm-centella-restore-cream-pdp/";
 
 const CDN = {
-  heroFront: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/e980edd6effce50de114814e75755ebf.png?v=1771556360",
-  heroAngle: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/e980edd6effce50de114814e75755ebf.png?v=1771556360",
-  lifestyleHands: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/e980edd6effce50de114814e75755ebf.png?v=1771556360",
-  textureSwatch: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/e980edd6effce50de114814e75755ebf.png?v=1771556360",
-  bundle3jars: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/e980edd6effce50de114814e75755ebf.png?v=1771556360",
-  adOverlay: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/e980edd6effce50de114814e75755ebf.png?v=1771556360",
+  heroFront: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/CDN_HERO_FRONT_69629f94-9191-46b0-91cc-94fee07c07b5.png?v=1771555411",
+  heroAngle: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/CDN_HERO_ANGLE_c1669b29-ab9f-451d-9457-b58cdee630fc.png?v=1771555414",
+  lifestyleHands: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/CDN_LIFESTYLE_1_5a7d6696-1bc8-4945-aa53-52b9d8ea7cf2.png?v=1771555419",
+  textureSwatch: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/CDN_LIFESTYLE_1_5a7d6696-1bc8-4945-aa53-52b9d8ea7cf2.png?v=1771555419",
+  bundle3jars: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/CDN_BUNDLE_3_57522eac-56c8-413e-a29b-b7ee8e82e4f0.png?v=1771555417",
+  adOverlay: "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/CDN_AD_OVERLAY_47beecd5-cf45-4379-b421-d9532013cae3.png?v=1771555422",
 };
 
 const COLORS = {
