@@ -73,7 +73,7 @@ const Index = () => {
         "✅ Three-phase Centelloid Renewal Cascade™ — addresses fibroblast reactivation, collagen synthesis, and barrier restoration in sequence",
         "✅ Fragrance-free, dye-free formulation designed for the sensitized, reactive skin common in perimenopause",
         "✅ 60-day money-back guarantee — the longest guarantee on this list, timed specifically to the 8-week protocol",
-        "✅ Free gifts with every order, code SECRET25 for 25% off — $59.25 / $111.75 / $147.75 — the most generous offer structure in this category",
+        "✅ Free gifts with every order, code SECRET25 for 25% off — $37.50 / $67.50 / $93.75 — the most generous offer structure in this category",
       ],
       cta: PDP_URL,
       ctaText: "Visit Site →",
@@ -321,7 +321,7 @@ const Index = () => {
               "Our testing methodology for this category was specific: we weren't evaluating cica moisturizers in general. We were evaluating them for a particular type of skin — the skin of women experiencing perimenopause or post-menopausal hormonal shifts, where the primary concerns are structural (loss of collagen density, increased skin permeability, persistent barrier dysfunction) rather than general (dryness, redness, or acne). This narrowed the field considerably. Most cica products, whatever their merits for younger or general audiences, weren't designed with this specific biology in mind.",
               "Centella Restore Cream™ stood out from the first review of its formulation because it's the only product on this list that names a mechanism rather than an ingredient. The Centelloid Renewal Cascade™ describes a three-phase biological process — fibroblast reactivation, Type I collagen synthesis, barrier and hydration restoration — that maps directly onto the cellular changes perimenopause produces. When we compared this to Dr. Jart's Cicapair (excellent at calming and color correction but not anti-aging in mechanism), COSRX (designed for blemish, not structural aging), and La Roche-Posay's Cicaplast (pharmaceutical wound recovery, not restoration), the difference was clear: Centella Restore Cream™ is asking a different question than its competitors.",
               "The women we surveyed in our 8-week testing group reported something consistently meaningful: they didn't describe dramatic before-and-afters. They described quieter changes. A face that looked more like them in the morning. A skin texture that felt denser, more like the material it used to be. More willingness to go bare-faced. One participant wrote that she stopped avoiding the bathroom mirror — not because her skin was suddenly perfect, but because she'd stopped losing ground.",
-              "On value: at $79 for one jar, Centella Restore Cream™ is positioned in the premium tier of this category. The offer structure addresses the price concern directly: the 60-day guarantee eliminates financial risk, the SECRET25 code brings the price down 25%, and the bundle gift structure rewards commitment. The longer guarantee isn't just marketing; it reflects genuine confidence in the science.",
+              "On value: at $50.00 for one jar, Centella Restore Cream™ is positioned in the premium tier of this category. The offer structure addresses the price concern directly: the 60-day guarantee eliminates financial risk, the SECRET25 code brings the price down 25%, and the bundle gift structure rewards commitment. The longer guarantee isn't just marketing; it reflects genuine confidence in the science.",
             ].map((para, i) => (
               <p key={i} style={{ fontSize: "16px", lineHeight: 1.85, color: COLORS.body, marginBottom: "20px" }}>{para}</p>
             ))}
@@ -368,7 +368,7 @@ const Index = () => {
                   {
                     product: "Centella Restore Cream™ by Little Miss Mineral",
                     rating: "9.9 ★★★★★",
-                    price: "$79–$197",
+                    price: "$50.00–$125.00",
                     guarantee: "60 Days",
                     mechanism: "✅ Centelloid Renewal Cascade™",
                     for40: "✅ Formulated specifically for perimenopausal biology",
@@ -430,7 +430,7 @@ const Index = () => {
               Centella Restore Cream™ by Little Miss Mineral — the only cica moisturizer formulated specifically for the biological changes of perimenopause.
             </p>
             <div style={{ margin: "24px 0 8px" }}>
-              <div style={{ fontSize: "15px", opacity: 0.85, marginBottom: "8px" }}>→ Use code <strong>SECRET25</strong> for 25% off: 1 jar $59.25 | 2 jars $111.75 | 3 jars $147.75</div>
+              <div style={{ fontSize: "15px", opacity: 0.85, marginBottom: "8px" }}>→ Use code <strong>SECRET25</strong> for 25% off: 1 jar $37.50 | 2 jars $67.50 | 3 jars $93.75</div>
               <div style={{ fontSize: "15px", opacity: 0.85, marginBottom: "8px" }}>→ 60-Day Money-Back Guarantee — no forms, no fine print</div>
               <div style={{ fontSize: "15px", opacity: 0.85, marginBottom: "24px" }}>→ Free gifts with every order (Digital Guide + Roller + Masks by tier)</div>
             </div>
